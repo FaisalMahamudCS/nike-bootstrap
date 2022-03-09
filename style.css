@@ -1,0 +1,33 @@
+.header-bg{
+    background-color: #FFF9F4;
+
+}
+.head-letter-color{
+    color:#FA804C;
+}
+.head-font{
+    font-size:80px;
+}
+.pl-pic{
+    margin-left: 150px;
+}
+.roboto{
+    font-family: 'Roboto', sans-serif;
+}
+.bebas{
+    font-family: 'Bebas Neue', cursive;
+}
+.roboto{
+    font-family: 'Roboto', sans-serif;
+}
+.buy-btn{
+    background-image: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+border-radius: 10px;
+width:150px;
+
+}
+.div-img{
+
+background-color :#F1F1F1;
+
+}
